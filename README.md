@@ -1,9 +1,13 @@
 # BgMove
 
 
+## Demo
+Link goes here
+
+
 ## About
 
-Interactive background image. Fullscreen. Background moves with mouse cursor.
+Interactive background image. Fullscreen. Background image moves with mouse cursor.
 
 No dependencies. No jQuery needed.
 
@@ -18,14 +22,12 @@ Uses css transform scale + translate to move background image.
 ```html
 <script src="js/bgmove.js"></script>
 ```
-
 2. Add html
 ```html
 <div class="bgwrap">   
     <div class="bgmove"></div>
 </div>
 ```
-
 3. Add css
 ```css
 .bgwrap {
