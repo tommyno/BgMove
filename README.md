@@ -9,11 +9,11 @@ Link goes here
 
 Interactive background image. Fullscreen. Background image moves with mouse cursor.
 
-No dependencies. No jQuery needed.
+No dependencies.
 
-Uses css "background-size: scale" to fill screen.
+Uses css cover, scale and transform.
 
-Uses css transform scale + translate to move background image.
+Works in all modern browsers. Including IE9.
 
 
 ## How to use
