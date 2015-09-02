@@ -18,16 +18,18 @@ Uses css transform scale + translate to move background image.
 
 ## How to use
 
-1. Include bgmove.js
+1) Include bgmove.js
 ```html
 <script src="js/bgmove.js"></script>
 ```
-2. Add html
+
+2) Add html wrappers
 ```html
 <div class="bgwrap">   
     <div class="bgmove"></div>
 </div>
 ```
+
 3. Add css
 ```css
 .bgwrap {
