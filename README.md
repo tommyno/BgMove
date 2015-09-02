@@ -30,7 +30,7 @@ Uses css transform scale + translate to move background image.
 </div>
 ```
 
-3. Add css
+3) Add css
 ```css
 .bgwrap {
     width: 100%;
