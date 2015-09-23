@@ -7,7 +7,7 @@ http://codepen.io/tommyno/pen/ZbGPQX
 
 ## About
 
-Interactive background image. Fullscreen. Background image moves with mouse cursor.
+Interactive background image.
 
 No dependencies.
 
