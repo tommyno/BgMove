@@ -2,7 +2,7 @@
 
 
 ## Demo 
-http://codepen.io/tommyno/pen/ZbGPQX
+http://tommyno.github.io/BgMove/
 
 
 ## About
